@@ -1,7 +1,7 @@
 # PTR-Tracker hardware repository
 Here you'll find the design files for the Tracker PCB
 
-Looking for software? That's [here](https://github.com/karmelek96/ptr-tracker-firmware)
+Looking for software? That's [here](https://github.com/PTR-projects/PTR_tracker_firmware)
 
 # How to order
 The folders contain the kicad projects and JLC assembly files for the 2 frequency variants of the device.
